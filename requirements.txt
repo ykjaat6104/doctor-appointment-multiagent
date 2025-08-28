@@ -4,6 +4,7 @@ langchain-groq
 langchain-openai
 python-dotenv
 pydantic
-requests
 groq
 openai
+colorama
+tqdm
